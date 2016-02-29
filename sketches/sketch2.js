@@ -1,9 +1,10 @@
 function setup() {
-  var canvas2 = createCanvas(300,300);
+  var canvas2 = createCanvas(displayWidth, displayHeight);
   canvas2.parent('contenedor2');
 }
 
 function draw() {
+  background(0, 255, 0);
   rect(100,100,width/2,height/2);
   
 }
