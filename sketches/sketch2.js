@@ -1,9 +1,9 @@
 function setup() {
   var canvas = createCanvas(300,300);
-  canvas.parent('contenedor1');
+  canvas.parent('contenedor2');
 }
 
 function draw() {
-  ellipse(100,100,width/2,height/2);
+  rect(100,100,width/2,height/2);
   
 }
