@@ -1,6 +1,7 @@
 function setup() {
   var canvas2 = createCanvas(100, 100);
-  canvas2.parent('contenedor2');
+  canvas2.id(1)2;
+  canvas2.parent('contenedor2');2
 }
 
 function draw() {
