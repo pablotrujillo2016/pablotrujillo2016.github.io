@@ -7,7 +7,8 @@ function setup() {
 
 function draw() {
   background(255, 0, 0);
-ellipse(100,100,width/2,height/2);
+  fill(200);
+  ellipse(100,100,width/2,height/2);
 
   
 }
