@@ -4,6 +4,7 @@ function setup() {
   canvas.parent('contenedor1');
 }
 
+
 function draw() {
   background(255, 0, 0);
 
