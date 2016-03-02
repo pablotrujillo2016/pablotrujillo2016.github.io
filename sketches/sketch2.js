@@ -1,5 +1,5 @@
 function setup() {
-  var canvas2 = createCanvas(100, 100);
+  var canvas2 = createCanvas(900, 900);
   canvas2.id(1);
   canvas2.parent('contenedor2');
 }
